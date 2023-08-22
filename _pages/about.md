@@ -7,7 +7,7 @@ subtitle: <a href='http://nowlab.cse.ohio-state.edu/'>NOWLAB @ The Ohio State Un
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pfp-main.png
 <!--  address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
