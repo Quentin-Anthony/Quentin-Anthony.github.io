@@ -6,4 +6,4 @@ description: Curriculum vitae.
 nav: true
 ---
 
-Updated March 2022: [PDF](/assets/pdf/QuentinCV-March2022.pdf).
+Updated August 2023: [PDF](/assets/pdf/QuentinCV-August2023.pdf).
